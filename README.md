@@ -45,22 +45,22 @@ An Express-based application developed with TypeScript, MongoDB, mongoose to man
  **Stationery Products**
 
     Create Product
-        POST  https://stationary-shop-backened.vercel.app/api/products
+        POST  https://stationary-shop-wine.vercel.app/api/products
     Get All Products
-        GET https://stationary-shop-backened.vercel.app/api/products?searchTerm={name/brand/category}
+        GET https://stationary-shop-wine.vercel.app/api/products?searchTerm={name/brand/category}
     Get Specific Product
-        GET https://stationary-shop-backened.vercel.app/api/products/:productId
+        GET https://stationary-shop-wine.vercel.app/api/products/:productId
     Update Product
-        PUT https://stationary-shop-backened.vercel.app/api/products/:productId
+        PUT https://stationary-shop-wine.vercel.app/api/products/:productId
     Delete Product
-        DELETE https://stationary-shop-backened.vercel.app/api/products/:productId
+        DELETE https://stationary-shop-wine.vercel.app/api/products/:productId
 
 **Orders**
 
     Place an Order
-        POST https://stationary-shop-backened.vercel.app/api/orders
+        POST https://stationary-shop-wine.vercel.app/api/orders
     Calculate Revenue
-        GET https://stationary-shop-backened.vercel.app/api/orders/revenue
+        GET https://stationary-shop-wine.vercel.app/api/orders/revenue
 
 Technologies Used
 Backend:
@@ -73,7 +73,7 @@ Backend:
    https://drive.google.com/file/d/1Qsc64Z96sOr0HzLSLv78t-XGWDNzQBSb/view?usp=drive_link
 
 # Live Deployment
-    1. https://stationary-shop-backened.vercel.app
-    2. https://stationary-shop-backened.vercel.app/api/products
-    3. https://stationary-shop-backened.vercel.app/api/orders
+    1. https://stationary-shop-wine.vercel.app
+    2. https://stationary-shop-wine.vercel.app/api/products
+    3. https://stationary-shop-wine.vercel.app/api/orders
 
